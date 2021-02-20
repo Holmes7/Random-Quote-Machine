@@ -1,0 +1,42 @@
+#quote-box {
+	background-color: white;
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	right: 20%;
+	bottom: 20%;	
+}
+body {
+	background-color: LightYellow;
+	font-family: 'Roboto', sans-serif;
+}
+#text {
+	margin: 50px;
+}
+#tweet-quote {
+	position: absolute;
+	margin: 50px;
+	bottom: 0px;
+	color: white;
+	text-align: center;
+	width: 40px;
+	height: 25px;
+	font-size: 15px;
+	padding-top: 5px;
+}
+#author {
+	margin: 50px;
+	position: absolute;
+	right: 0px;
+}
+#new-quote {
+	margin: 50px;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	color: white;
+	text-align: center;
+	width: 120px;
+	height: 40px;
+	font-size: 15px;
+}
